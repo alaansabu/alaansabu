@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Sabu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking  help with **Javascript**
 
 - 📫 You can reach me **alansabu6046@gmail.com**
 
