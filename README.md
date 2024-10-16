@@ -1,22 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alan Sabu</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-# Hello, I'm Alan Sabu👋
+- 🤝 I’m looking for help with **Javascript**
 
-### Welcome to my GitHub Profile!
+- 📫 You can reach me **alansabu6046@gmail.com**
 
-- 💻 I'm a software developer passionate about coding, problem-solving, and learning new technologies.
-- 🧠 Learning [Full stack web development/Javascript].
-- 💼 Seeking collaboration on open-source projects.
+- ⚡ Fun fact **I am good at creating bugs**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alaniwee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaniwee" height="30" width="40" /></a>
+</p>
 
----
-
-### 🚀 My Skills:
-
-- **Languages:** HTML5,CSS,Javascript,C++
-
-
-### 🌟 My GitHub Stats:
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
