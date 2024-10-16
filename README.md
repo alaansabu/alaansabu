@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**alaansabu/alaansabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+### Welcome to my GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a software developer passionate about coding, problem-solving, and learning new technologies.
+- 🧠 Learning [Full stack web development/Javascript].
+- 💼 Seeking collaboration on open-source projects.
+
+
+---
+
+### 🚀 My Skills:
+
+- **Languages:** HTML5,CSS,Javascript,C++
+
+
+### 🌟 My GitHub Stats:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact
