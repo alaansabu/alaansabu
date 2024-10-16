@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Alan Sabu👋
 
 ### Welcome to my GitHub Profile!
 
