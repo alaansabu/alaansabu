@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **javascript/typescript**
 
-- 🤝 I’m looking for help with **Web Dev and web3**
-
 - 📫 You can reach me **alansabu6046@gmail.com**
 
 - ⚡ Fun fact **I am good at creating bugs**
